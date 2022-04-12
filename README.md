@@ -2,7 +2,7 @@
 All codes for my submission made on codechef
 ```json
 {
-  "count": 160,
+  "count": 154,
   "data": [
     {
       "name": "LECANDY",
